@@ -67,3 +67,7 @@ C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\bin\Microsoft.Owin.Security.
 C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.csprojResolveAssemblyReference.cache
 C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.dll
 C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.pdb
+C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.Migrations.InitialCreate.resources
+C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.csproj.GenerateResource.Cache
+C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.Migrations.addCategorytable.resources
+C:\Users\zozo\Source\Repos\restaurant\oopRestaurant\obj\Debug\oopRestaurant.Migrations.addMenuItem.resources
